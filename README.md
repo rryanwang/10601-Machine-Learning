@@ -1,1 +1,1 @@
-# CMU-10601 Introduction to Machine Learning Spring 2021
+# CMU-10601 Intro to Machine Learning Spring 2021
